@@ -1,6 +1,9 @@
 ### Automatic_Files_Distributing_Application
 Python GUI Project Automatic_Files_Distributing_Application. Managing files is an easy task. So, today let’s head over building a file manager. This is a pretty easy application. To make it more interactive and interesting, we will use Tkinter along with Python. A simple desktop application for management in particular directory which is separating various extension file from source folder to specific folder based on the file extension using python tkinter. This Project use some module like tkinter, filedialog, messagebox, os, shutil. This project work is automatic file distributed with the help of file extension. Same extension file automatic move to same folder With folder name.
 
+### Basic Python & Project Report File
+[BasicPyhon.pdf](https://github.com/Akshat303/Automatic_File_Distributing_Application/files/5802154/BasicPyhon.pdf)
+
 ### Project PPT File 
 [File Distributing Application.pptx](https://github.com/Akshat303/Automatic_File_Distributing_Application/files/5802059/File.Distributing.Application.pptx)
 
