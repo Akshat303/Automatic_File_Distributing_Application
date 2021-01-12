@@ -27,6 +27,6 @@ Python GUI Project Automatic_Files_Distributing_Application. Managing files is a
 
 ![A-F-D-5](https://user-images.githubusercontent.com/48360544/102604465-3bb47680-414a-11eb-8c67-86ccfee10914.png)
 
-Your all file is sorted:-
+## Your all file is sorted:-
 
 ![A-F-D-6](https://user-images.githubusercontent.com/48360544/102604481-4111c100-414a-11eb-95f5-15a775216dbe.png)
